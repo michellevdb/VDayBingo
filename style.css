@@ -1,0 +1,27 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: rgb(242, 71, 97)
+    
+}
+h1 {
+    font-family: 'Spartan', sans-serif;
+    text-align: center;
+    color: white; 
+    
+}
+.jumbotron {
+    background: rgb(255, 62, 91);
+    background: radial-gradient(circle, rgb(176, 5, 36) 29%, rgb(216, 80, 101) 55%, rgba(255, 186, 193, 0.975) 91%);
+}
+
+.btn {
+    color: white;
+    padding: 10px 30px; 
+    font-size: 20px;
+    background: rgb(199, 28, 28);
+    
+}
+.card-body {
+    font-size: 20px;
+}
